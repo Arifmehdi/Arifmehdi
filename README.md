@@ -1,6 +1,6 @@
 ![I am a Software Developer and bug fixer](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/324140995_1570765873441089_4596400014347077561_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=kwBwvhh55yIAX-CF7FJ&tn=rJR1zm5IyfMA4cTF&_nc_ht=scontent.fdac20-1.fna&oh=00_AfAudejqFYsWsNxEK5sE7mtB3FeC_M2HelSaZGU0kX70cw&oe=63BD462C)
 
-### Hi,  I'm Arif Mehedei Rasel 👋
+### Hi,  I'm Arif Mehedi Rasel 👋
 ![Profile views](https://gpvc.arturio.dev/ihabibcom)  <br>
 👑 I am a Full Stack Developer <br>
 🖊️ Love to explore new things <br>
